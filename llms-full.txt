@@ -1,0 +1,99 @@
+# 恒信专业服务
+> 恒信专业服务是一家位于吉隆坡的专业服务公司，提供会计与审计、税务咨询和公司秘书服务。
+
+# About Us
+
+URL: https://hengxin.example.com/en-US/about/
+
+Learn about Hengxin Professional Services, an accounting, tax and company secretarial team in Bukit Jalil, Kuala Lumpur.
+
+Review Status: published
+
+About Us   Hengxin Professional Services is a professional services firm in Bukit Jalil, Kuala Lumpur. We offer three services to local businesses: accounting and audit, tax advisory, and company secretarial.   Our philosophy   "Hengxin" stands for lasting, reliable trust. We believe financial and compliance support should be clear, accurate and delivered on time, so business owners can focus on their business.   How we work      Clear communication : we explain numbers and regulatory requirements in plain language.    On-time delivery : we remind you ahead of filing and tax deadlines.    One team : accounting, tax and company secretarial matters are coordinated by the same team, so documents don't pass back and forth.     To learn more, please [contact us](<https://hengxin.example.com/en-US/contact/>) .
+
+---
+
+# Contact Us
+
+URL: https://hengxin.example.com/en-US/contact/
+
+Contact Hengxin Professional Services in Bukit Jalil, Kuala Lumpur. Phone +60 3-0000 0000, email hello@example.com.
+
+Review Status: published
+
+Contact Us   Get in touch and tell us what you need.      Address : Bukit Jalil, Kuala Lumpur    Phone : [+60 3-0000 0000](<tel:+60300000000>) Email : [hello@example.com](<mailto:hello@example.com>)
+
+---
+
+# FAQ
+
+URL: https://hengxin.example.com/en-US/faq/
+
+Frequently asked questions about Hengxin Professional Services: services, clients, location, how to reach us and company secretarial work.
+
+Review Status: published
+
+FAQ   What services does Hengxin Professional Services offer?   We offer three services - accounting and audit, tax advisory, and company secretarial.   Where is your office?   We are located in Bukit Jalil, Kuala Lumpur.   How can I contact you?   Call +60 3-0000 0000 or email hello@example.com.   Who are your clients?   We mainly serve small and medium businesses in and around Kuala Lumpur, and welcome other businesses that need accounting, tax or company secretarial support.   What does the company secretarial service include?   Company incorporation, statutory records and registers, changes of directors and shareholders, and annual filings.
+
+---
+
+# Services
+
+URL: https://hengxin.example.com/en-US/services/
+
+Hengxin Professional Services offers accounting and audit, tax advisory and company secretarial services to businesses in Kuala Lumpur.
+
+Review Status: published
+
+Services   Accounting &amp; Audit   We provide day-to-day bookkeeping, monthly and annual financial statements, and support during audits for small and medium businesses. Clear, accurate accounts help you understand how the business is doing and lay the groundwork for financing and compliance.   Tax Advisory   We offer tax planning, filing preparation and compliance advice. We help you understand your tax obligations, file on time, and consider the tax side of everyday business decisions.   Company Secretarial   We assist with company incorporation, statutory records and registers, changes of directors and shareholders, and annual filings, so your company stays compliant.   Not sure which service you need? [Contact us](<https://hengxin.example.com/en-US/contact/>) .
+
+---
+
+# 关于我们
+
+URL: https://hengxin.example.com/zh-CN/about/
+
+了解恒信专业服务：一家位于吉隆坡 Bukit Jalil 的会计、税务与公司秘书服务团队。
+
+Review Status: published
+
+关于我们   恒信专业服务是一家位于吉隆坡 Bukit Jalil 的专业服务公司，为本地企业提供会计与审计、税务咨询和公司秘书三项服务。   我们的理念   “恒信”意味着长久而可靠的信任。我们相信，专业的财务与合规支持应当清晰、准确、按时交付，让企业主可以把精力放在业务本身。   我们的做法      清晰沟通 ：用通俗易懂的方式解释数字与法规要求。    准时交付 ：提前提醒各项申报与报税期限。    一站式服务 ：会计、税务与公司秘书事务由同一团队统筹，避免资料来回传递。     如需了解更多，欢迎 [联系我们](<https://hengxin.example.com/zh-CN/contact/>) 。
+
+---
+
+# 联系我们
+
+URL: https://hengxin.example.com/zh-CN/contact/
+
+联系恒信专业服务：吉隆坡 Bukit Jalil，电话 +60 3-0000 0000，邮箱 hello@example.com。
+
+Review Status: published
+
+联系我们   欢迎随时与我们联系，告诉我们您的需求。      地址 ：吉隆坡 Bukit Jalil    电话 ： [+60 3-0000 0000](<tel:+60300000000>) 邮箱 ： [hello@example.com](<mailto:hello@example.com>)
+
+---
+
+# 常见问题
+
+URL: https://hengxin.example.com/zh-CN/faq/
+
+关于恒信专业服务的常见问题：服务范围、服务对象、所在地、咨询方式与服务内容。
+
+Review Status: published
+
+常见问题   恒信专业服务提供哪些服务？   我们提供三项服务：会计与审计、税务咨询、公司秘书。   你们的办公室在哪里？   我们位于吉隆坡 Bukit Jalil。   如何联系你们？   您可以致电 +60 3-0000 0000，或发送邮件至 hello@example.com。   你们的服务对象是谁？   我们主要服务吉隆坡及周边的中小企业，也欢迎其他需要会计、税务或公司秘书支持的企业咨询。   公司秘书服务包括哪些内容？   包括公司注册、法定记录与登记册维护、董事与股东变更，以及周年申报等事务。
+
+---
+
+# 服务
+
+URL: https://hengxin.example.com/zh-CN/services/
+
+恒信专业服务提供会计与审计、税务咨询、公司秘书三项服务，服务吉隆坡及周边企业。
+
+Review Status: published
+
+服务   会计与审计   我们为中小企业提供日常记账、月度与年度财务报表编制，并协助配合审计工作。清晰准确的账目既能帮助您掌握经营状况，也为融资与合规打好基础。   税务咨询   我们提供税务规划、报税准备与合规建议，协助您了解适用的税务义务并按时完成申报，同时在日常经营决策中提供税务角度的意见。   公司秘书   我们协助办理公司注册、法定记录与登记册维护、董事与股东变更，以及周年申报等事务，让公司始终保持合规状态。   需要了解哪项服务？请 [联系我们](<https://hengxin.example.com/zh-CN/contact/>) 。
+
+---
+

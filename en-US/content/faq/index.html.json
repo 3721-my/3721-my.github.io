@@ -1,0 +1,39 @@
+{
+  "id": "faq",
+  "slug": "faq",
+  "canonicalUrlKey": "faq",
+  "route": "/faq/",
+  "title": "FAQ",
+  "summary": "Frequently asked questions about Hengxin Professional Services: services, clients, location, how to reach us and company secretarial work.",
+  "body": "\u003Ch1 id=\u0022faq\u0022\u003EFAQ\u003C/h1\u003E\n\u003Ch2 id=\u0022what-services-does-hengxin-professional-services-offer\u0022\u003EWhat services does Hengxin Professional Services offer?\u003C/h2\u003E\n\u003Cp\u003EWe offer three services - accounting and audit, tax advisory, and company secretarial.\u003C/p\u003E\n\u003Ch2 id=\u0022where-is-your-office\u0022\u003EWhere is your office?\u003C/h2\u003E\n\u003Cp\u003EWe are located in Bukit Jalil, Kuala Lumpur.\u003C/p\u003E\n\u003Ch2 id=\u0022how-can-i-contact-you\u0022\u003EHow can I contact you?\u003C/h2\u003E\n\u003Cp\u003ECall \u002B60 3-0000 0000 or email hello@example.com.\u003C/p\u003E\n\u003Ch2 id=\u0022who-are-your-clients\u0022\u003EWho are your clients?\u003C/h2\u003E\n\u003Cp\u003EWe mainly serve small and medium businesses in and around Kuala Lumpur, and welcome other businesses that need accounting, tax or company secretarial support.\u003C/p\u003E\n\u003Ch2 id=\u0022what-does-the-company-secretarial-service-include\u0022\u003EWhat does the company secretarial service include?\u003C/h2\u003E\n\u003Cp\u003ECompany incorporation, statutory records and registers, changes of directors and shareholders, and annual filings.\u003C/p\u003E",
+  "language": "en-US",
+  "type": "page",
+  "collection": "page",
+  "tags": [],
+  "sections": [],
+  "author": null,
+  "authorType": null,
+  "organization": null,
+  "publishedAt": "2026-01-01T00:00:00+00:00",
+  "updatedAt": "2026-01-01T00:00:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": null,
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [
+    {
+      "type": "translation-of",
+      "target": "faq",
+      "targetType": "content",
+      "targetId": "faq"
+    }
+  ],
+  "media": [],
+  "canonical": "https://hengxin.example.com/en-US/faq/"
+}

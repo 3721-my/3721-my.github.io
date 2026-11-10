@@ -1,0 +1,39 @@
+{
+  "id": "contact",
+  "slug": "contact",
+  "canonicalUrlKey": "contact",
+  "route": "/contact/",
+  "title": "\u8054\u7CFB\u6211\u4EEC",
+  "summary": "\u8054\u7CFB\u6052\u4FE1\u4E13\u4E1A\u670D\u52A1\uFF1A\u5409\u9686\u5761 Bukit Jalil\uFF0C\u7535\u8BDD \u002B60 3-0000 0000\uFF0C\u90AE\u7BB1 hello@example.com\u3002",
+  "body": "\u003Ch1 id=\u0022\u8054\u7CFB\u6211\u4EEC\u0022\u003E\u8054\u7CFB\u6211\u4EEC\u003C/h1\u003E\n\u003Cp\u003E\u6B22\u8FCE\u968F\u65F6\u4E0E\u6211\u4EEC\u8054\u7CFB\uFF0C\u544A\u8BC9\u6211\u4EEC\u60A8\u7684\u9700\u6C42\u3002\u003C/p\u003E\n\u003Cul\u003E\n\u003Cli\u003E\u003Cstrong\u003E\u5730\u5740\u003C/strong\u003E\uFF1A\u5409\u9686\u5761 Bukit Jalil\u003C/li\u003E\n\u003Cli\u003E\u003Cstrong\u003E\u7535\u8BDD\u003C/strong\u003E\uFF1A\u003Ca href=\u0022tel:\u002B60300000000\u0022\u003E\u002B60 3-0000 0000\u003C/a\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cstrong\u003E\u90AE\u7BB1\u003C/strong\u003E\uFF1A\u003Ca href=\u0022mailto:hello@example.com\u0022\u003Ehello@example.com\u003C/a\u003E\u003C/li\u003E\n\u003C/ul\u003E",
+  "language": "zh-CN",
+  "type": "page",
+  "collection": "page",
+  "tags": [],
+  "sections": [],
+  "author": null,
+  "authorType": null,
+  "organization": null,
+  "publishedAt": "2026-01-01T00:00:00+00:00",
+  "updatedAt": "2026-01-01T00:00:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": null,
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [
+    {
+      "type": "translation-of",
+      "target": "contact",
+      "targetType": "content",
+      "targetId": "contact"
+    }
+  ],
+  "media": [],
+  "canonical": "https://hengxin.example.com/zh-CN/contact/"
+}

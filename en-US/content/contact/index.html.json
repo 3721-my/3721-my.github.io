@@ -1,0 +1,39 @@
+{
+  "id": "contact",
+  "slug": "contact",
+  "canonicalUrlKey": "contact",
+  "route": "/contact/",
+  "title": "Contact Us",
+  "summary": "Contact Hengxin Professional Services in Bukit Jalil, Kuala Lumpur. Phone \u002B60 3-0000 0000, email hello@example.com.",
+  "body": "\u003Ch1 id=\u0022contact-us\u0022\u003EContact Us\u003C/h1\u003E\n\u003Cp\u003EGet in touch and tell us what you need.\u003C/p\u003E\n\u003Cul\u003E\n\u003Cli\u003E\u003Cstrong\u003EAddress\u003C/strong\u003E: Bukit Jalil, Kuala Lumpur\u003C/li\u003E\n\u003Cli\u003E\u003Cstrong\u003EPhone\u003C/strong\u003E: \u003Ca href=\u0022tel:\u002B60300000000\u0022\u003E\u002B60 3-0000 0000\u003C/a\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cstrong\u003EEmail\u003C/strong\u003E: \u003Ca href=\u0022mailto:hello@example.com\u0022\u003Ehello@example.com\u003C/a\u003E\u003C/li\u003E\n\u003C/ul\u003E",
+  "language": "en-US",
+  "type": "page",
+  "collection": "page",
+  "tags": [],
+  "sections": [],
+  "author": null,
+  "authorType": null,
+  "organization": null,
+  "publishedAt": "2026-01-01T00:00:00+00:00",
+  "updatedAt": "2026-01-01T00:00:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": null,
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [
+    {
+      "type": "translation-of",
+      "target": "contact",
+      "targetType": "content",
+      "targetId": "contact"
+    }
+  ],
+  "media": [],
+  "canonical": "https://hengxin.example.com/en-US/contact/"
+}

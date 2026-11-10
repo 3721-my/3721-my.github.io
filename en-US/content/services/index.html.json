@@ -1,0 +1,39 @@
+{
+  "id": "services",
+  "slug": "services",
+  "canonicalUrlKey": "services",
+  "route": "/services/",
+  "title": "Services",
+  "summary": "Hengxin Professional Services offers accounting and audit, tax advisory and company secretarial services to businesses in Kuala Lumpur.",
+  "body": "\u003Ch1 id=\u0022services\u0022\u003EServices\u003C/h1\u003E\n\u003Ch2 id=\u0022accounting--audit\u0022\u003EAccounting \u0026amp; Audit\u003C/h2\u003E\n\u003Cp\u003EWe provide day-to-day bookkeeping, monthly and annual financial statements, and support during audits for small and medium businesses. Clear, accurate accounts help you understand how the business is doing and lay the groundwork for financing and compliance.\u003C/p\u003E\n\u003Ch2 id=\u0022tax-advisory\u0022\u003ETax Advisory\u003C/h2\u003E\n\u003Cp\u003EWe offer tax planning, filing preparation and compliance advice. We help you understand your tax obligations, file on time, and consider the tax side of everyday business decisions.\u003C/p\u003E\n\u003Ch2 id=\u0022company-secretarial\u0022\u003ECompany Secretarial\u003C/h2\u003E\n\u003Cp\u003EWe assist with company incorporation, statutory records and registers, changes of directors and shareholders, and annual filings, so your company stays compliant.\u003C/p\u003E\n\u003Cp\u003ENot sure which service you need? \u003Ca href=\u0022../contact/\u0022\u003EContact us\u003C/a\u003E.\u003C/p\u003E",
+  "language": "en-US",
+  "type": "page",
+  "collection": "page",
+  "tags": [],
+  "sections": [],
+  "author": null,
+  "authorType": null,
+  "organization": null,
+  "publishedAt": "2026-01-01T00:00:00+00:00",
+  "updatedAt": "2026-01-01T00:00:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": null,
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [
+    {
+      "type": "translation-of",
+      "target": "services",
+      "targetType": "content",
+      "targetId": "services"
+    }
+  ],
+  "media": [],
+  "canonical": "https://hengxin.example.com/en-US/services/"
+}

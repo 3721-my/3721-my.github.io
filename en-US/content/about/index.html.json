@@ -1,0 +1,39 @@
+{
+  "id": "about",
+  "slug": "about",
+  "canonicalUrlKey": "about",
+  "route": "/about/",
+  "title": "About Us",
+  "summary": "Learn about Hengxin Professional Services, an accounting, tax and company secretarial team in Bukit Jalil, Kuala Lumpur.",
+  "body": "\u003Ch1 id=\u0022about-us\u0022\u003EAbout Us\u003C/h1\u003E\n\u003Cp\u003EHengxin Professional Services is a professional services firm in Bukit Jalil, Kuala Lumpur. We offer three services to local businesses: accounting and audit, tax advisory, and company secretarial.\u003C/p\u003E\n\u003Ch2 id=\u0022our-philosophy\u0022\u003EOur philosophy\u003C/h2\u003E\n\u003Cp\u003E\u0026quot;Hengxin\u0026quot; stands for lasting, reliable trust. We believe financial and compliance support should be clear, accurate and delivered on time, so business owners can focus on their business.\u003C/p\u003E\n\u003Ch2 id=\u0022how-we-work\u0022\u003EHow we work\u003C/h2\u003E\n\u003Cul\u003E\n\u003Cli\u003E\u003Cstrong\u003EClear communication\u003C/strong\u003E: we explain numbers and regulatory requirements in plain language.\u003C/li\u003E\n\u003Cli\u003E\u003Cstrong\u003EOn-time delivery\u003C/strong\u003E: we remind you ahead of filing and tax deadlines.\u003C/li\u003E\n\u003Cli\u003E\u003Cstrong\u003EOne team\u003C/strong\u003E: accounting, tax and company secretarial matters are coordinated by the same team, so documents don\u0027t pass back and forth.\u003C/li\u003E\n\u003C/ul\u003E\n\u003Cp\u003ETo learn more, please \u003Ca href=\u0022../contact/\u0022\u003Econtact us\u003C/a\u003E.\u003C/p\u003E",
+  "language": "en-US",
+  "type": "page",
+  "collection": "page",
+  "tags": [],
+  "sections": [],
+  "author": null,
+  "authorType": null,
+  "organization": null,
+  "publishedAt": "2026-01-01T00:00:00+00:00",
+  "updatedAt": "2026-01-01T00:00:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": null,
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [
+    {
+      "type": "translation-of",
+      "target": "about",
+      "targetType": "content",
+      "targetId": "about"
+    }
+  ],
+  "media": [],
+  "canonical": "https://hengxin.example.com/en-US/about/"
+}

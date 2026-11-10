@@ -1,0 +1,131 @@
+{
+  "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-01-01T00:00:00+00:00",
+  "documents": [
+    {
+      "id": "about",
+      "canonicalId": "about",
+      "route": "/about/",
+      "language": "en-US",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/about/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/about/"
+        },
+        {
+          "kind": "json",
+          "url": "/en-US/content/about/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en-US/content/about/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://hengxin.example.com/en-US/about/"
+        }
+      ],
+      "publishedAt": "2026-01-01T00:00:00+00:00"
+    },
+    {
+      "id": "contact",
+      "canonicalId": "contact",
+      "route": "/contact/",
+      "language": "en-US",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/contact/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/contact/"
+        },
+        {
+          "kind": "json",
+          "url": "/en-US/content/contact/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en-US/content/contact/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://hengxin.example.com/en-US/contact/"
+        }
+      ],
+      "publishedAt": "2026-01-01T00:00:00+00:00"
+    },
+    {
+      "id": "faq",
+      "canonicalId": "faq",
+      "route": "/faq/",
+      "language": "en-US",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/faq/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/faq/"
+        },
+        {
+          "kind": "json",
+          "url": "/en-US/content/faq/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en-US/content/faq/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://hengxin.example.com/en-US/faq/"
+        }
+      ],
+      "publishedAt": "2026-01-01T00:00:00+00:00"
+    },
+    {
+      "id": "services",
+      "canonicalId": "services",
+      "route": "/services/",
+      "language": "en-US",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/services/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/services/"
+        },
+        {
+          "kind": "json",
+          "url": "/en-US/content/services/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/en-US/content/services/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://hengxin.example.com/en-US/services/"
+        }
+      ],
+      "publishedAt": "2026-01-01T00:00:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>恒信专业服务</title>
+    <link>https://hengxin.example.com/zh-CN/</link>
+    <description>恒信专业服务是一家位于吉隆坡的专业服务公司，提供会计与审计、税务咨询和公司秘书服务。</description>
+    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 GMT</lastBuildDate>
+    <generator>bukit</generator>
+    <atom:link href="https://hengxin.example.com/zh-CN/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我们</title>
+      <link>https://hengxin.example.com/zh-CN/about/</link>
+      <guid>https://hengxin.example.com/zh-CN/about/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <description>了解恒信专业服务：一家位于吉隆坡 Bukit Jalil 的会计、税务与公司秘书服务团队。</description>
+      <content:encoded><![CDATA[<h1 id="关于我们">关于我们</h1>
+<p>恒信专业服务是一家位于吉隆坡 Bukit Jalil 的专业服务公司，为本地企业提供会计与审计、税务咨询和公司秘书三项服务。</p>
+<h2 id="我们的理念">我们的理念</h2>
+<p>“恒信”意味着长久而可靠的信任。我们相信，专业的财务与合规支持应当清晰、准确、按时交付，让企业主可以把精力放在业务本身。</p>
+<h2 id="我们的做法">我们的做法</h2>
+<ul>
+<li><strong>清晰沟通</strong>：用通俗易懂的方式解释数字与法规要求。</li>
+<li><strong>准时交付</strong>：提前提醒各项申报与报税期限。</li>
+<li><strong>一站式服务</strong>：会计、税务与公司秘书事务由同一团队统筹，避免资料来回传递。</li>
+</ul>
+<p>如需了解更多，欢迎<a href="../contact/">联系我们</a>。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>联系我们</title>
+      <link>https://hengxin.example.com/zh-CN/contact/</link>
+      <guid>https://hengxin.example.com/zh-CN/contact/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <description>联系恒信专业服务：吉隆坡 Bukit Jalil，电话 +60 3-0000 0000，邮箱 hello@example.com。</description>
+      <content:encoded><![CDATA[<h1 id="联系我们">联系我们</h1>
+<p>欢迎随时与我们联系，告诉我们您的需求。</p>
+<ul>
+<li><strong>地址</strong>：吉隆坡 Bukit Jalil</li>
+<li><strong>电话</strong>：<a href="tel:+60300000000">+60 3-0000 0000</a></li>
+<li><strong>邮箱</strong>：<a href="mailto:hello@example.com">hello@example.com</a></li>
+</ul>]]></content:encoded>
+    </item>
+    <item>
+      <title>常见问题</title>
+      <link>https://hengxin.example.com/zh-CN/faq/</link>
+      <guid>https://hengxin.example.com/zh-CN/faq/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <description>关于恒信专业服务的常见问题：服务范围、服务对象、所在地、咨询方式与服务内容。</description>
+      <content:encoded><![CDATA[<h1 id="常见问题">常见问题</h1>
+<h2 id="恒信专业服务提供哪些服务">恒信专业服务提供哪些服务？</h2>
+<p>我们提供三项服务：会计与审计、税务咨询、公司秘书。</p>
+<h2 id="你们的办公室在哪里">你们的办公室在哪里？</h2>
+<p>我们位于吉隆坡 Bukit Jalil。</p>
+<h2 id="如何联系你们">如何联系你们？</h2>
+<p>您可以致电 +60 3-0000 0000，或发送邮件至 hello@example.com。</p>
+<h2 id="你们的服务对象是谁">你们的服务对象是谁？</h2>
+<p>我们主要服务吉隆坡及周边的中小企业，也欢迎其他需要会计、税务或公司秘书支持的企业咨询。</p>
+<h2 id="公司秘书服务包括哪些内容">公司秘书服务包括哪些内容？</h2>
+<p>包括公司注册、法定记录与登记册维护、董事与股东变更，以及周年申报等事务。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>服务</title>
+      <link>https://hengxin.example.com/zh-CN/services/</link>
+      <guid>https://hengxin.example.com/zh-CN/services/</guid>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
+      <description>恒信专业服务提供会计与审计、税务咨询、公司秘书三项服务，服务吉隆坡及周边企业。</description>
+      <content:encoded><![CDATA[<h1 id="服务">服务</h1>
+<h2 id="会计与审计">会计与审计</h2>
+<p>我们为中小企业提供日常记账、月度与年度财务报表编制，并协助配合审计工作。清晰准确的账目既能帮助您掌握经营状况，也为融资与合规打好基础。</p>
+<h2 id="税务咨询">税务咨询</h2>
+<p>我们提供税务规划、报税准备与合规建议，协助您了解适用的税务义务并按时完成申报，同时在日常经营决策中提供税务角度的意见。</p>
+<h2 id="公司秘书">公司秘书</h2>
+<p>我们协助办理公司注册、法定记录与登记册维护、董事与股东变更，以及周年申报等事务，让公司始终保持合规状态。</p>
+<p>需要了解哪项服务？请<a href="../contact/">联系我们</a>。</p>]]></content:encoded>
+    </item>
+  </channel>
+</rss>

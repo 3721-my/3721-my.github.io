@@ -4,7 +4,7 @@
 - Language: en-US
 - Type: page
 - Review Status: published
-- Canonical: https://hengxin.example.com/en-US/contact/
+- Canonical: https://3721-my.github.io/en-US/contact/
 
 Contact Hengxin Professional Services in Bukit Jalil, Kuala Lumpur. Phone +60 3-0000 0000, email hello@example.com.
 

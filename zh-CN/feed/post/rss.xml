@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>恒信专业服务</title>
-    <link>https://hengxin.example.com/zh-CN/</link>
+    <link>https://3721-my.github.io/zh-CN/</link>
     <description>恒信专业服务是一家位于吉隆坡的专业服务公司，提供会计与审计、税务咨询和公司秘书服务。</description>
     <generator>bukit</generator>
-    <atom:link href="https://hengxin.example.com/zh-CN/feed/post/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://3721-my.github.io/zh-CN/feed/post/rss.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

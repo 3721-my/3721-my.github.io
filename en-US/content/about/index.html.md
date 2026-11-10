@@ -4,7 +4,7 @@
 - Language: en-US
 - Type: page
 - Review Status: published
-- Canonical: https://hengxin.example.com/en-US/about/
+- Canonical: https://3721-my.github.io/en-US/about/
 
 Learn about Hengxin Professional Services, an accounting, tax and company secretarial team in Bukit Jalil, Kuala Lumpur.
 

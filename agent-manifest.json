@@ -29,7 +29,7 @@
         },
         {
           "kind": "jsonld",
-          "url": "https://hengxin.example.com/en-US/about/"
+          "url": "https://3721-my.github.io/en-US/about/"
         }
       ],
       "publishedAt": "2026-01-01T00:00:00+00:00"
@@ -60,7 +60,7 @@
         },
         {
           "kind": "jsonld",
-          "url": "https://hengxin.example.com/en-US/contact/"
+          "url": "https://3721-my.github.io/en-US/contact/"
         }
       ],
       "publishedAt": "2026-01-01T00:00:00+00:00"
@@ -91,7 +91,7 @@
         },
         {
           "kind": "jsonld",
-          "url": "https://hengxin.example.com/en-US/faq/"
+          "url": "https://3721-my.github.io/en-US/faq/"
         }
       ],
       "publishedAt": "2026-01-01T00:00:00+00:00"
@@ -122,7 +122,7 @@
         },
         {
           "kind": "jsonld",
-          "url": "https://hengxin.example.com/en-US/services/"
+          "url": "https://3721-my.github.io/en-US/services/"
         }
       ],
       "publishedAt": "2026-01-01T00:00:00+00:00"
@@ -153,7 +153,7 @@
         },
         {
           "kind": "jsonld",
-          "url": "https://hengxin.example.com/zh-CN/about/"
+          "url": "https://3721-my.github.io/zh-CN/about/"
         }
       ],
       "publishedAt": "2026-01-01T00:00:00+00:00"
@@ -184,7 +184,7 @@
         },
         {
           "kind": "jsonld",
-          "url": "https://hengxin.example.com/zh-CN/contact/"
+          "url": "https://3721-my.github.io/zh-CN/contact/"
         }
       ],
       "publishedAt": "2026-01-01T00:00:00+00:00"
@@ -215,7 +215,7 @@
         },
         {
           "kind": "jsonld",
-          "url": "https://hengxin.example.com/zh-CN/faq/"
+          "url": "https://3721-my.github.io/zh-CN/faq/"
         }
       ],
       "publishedAt": "2026-01-01T00:00:00+00:00"
@@ -246,7 +246,7 @@
         },
         {
           "kind": "jsonld",
-          "url": "https://hengxin.example.com/zh-CN/services/"
+          "url": "https://3721-my.github.io/zh-CN/services/"
         }
       ],
       "publishedAt": "2026-01-01T00:00:00+00:00"

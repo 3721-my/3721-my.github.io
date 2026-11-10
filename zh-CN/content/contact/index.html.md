@@ -4,7 +4,7 @@
 - Language: zh-CN
 - Type: page
 - Review Status: published
-- Canonical: https://hengxin.example.com/zh-CN/contact/
+- Canonical: https://3721-my.github.io/zh-CN/contact/
 
 联系恒信专业服务：吉隆坡 Bukit Jalil，电话 +60 3-0000 0000，邮箱 hello@example.com。
 

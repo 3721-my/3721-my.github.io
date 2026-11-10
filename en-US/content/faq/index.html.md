@@ -4,7 +4,7 @@
 - Language: en-US
 - Type: page
 - Review Status: published
-- Canonical: https://hengxin.example.com/en-US/faq/
+- Canonical: https://3721-my.github.io/en-US/faq/
 
 Frequently asked questions about Hengxin Professional Services: services, clients, location, how to reach us and company secretarial work.
 

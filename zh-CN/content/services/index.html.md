@@ -4,7 +4,7 @@
 - Language: zh-CN
 - Type: page
 - Review Status: published
-- Canonical: https://hengxin.example.com/zh-CN/services/
+- Canonical: https://3721-my.github.io/zh-CN/services/
 
 恒信专业服务提供会计与审计、税务咨询、公司秘书三项服务，服务吉隆坡及周边企业。
 

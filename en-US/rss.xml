@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>恒信专业服务</title>
-    <link>https://hengxin.example.com/en-US/</link>
+    <link>https://3721-my.github.io/en-US/</link>
     <description>恒信专业服务是一家位于吉隆坡的专业服务公司，提供会计与审计、税务咨询和公司秘书服务。</description>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 GMT</lastBuildDate>
     <generator>bukit</generator>
-    <atom:link href="https://hengxin.example.com/en-US/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://3721-my.github.io/en-US/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>https://hengxin.example.com/en-US/about/</link>
-      <guid>https://hengxin.example.com/en-US/about/</guid>
+      <link>https://3721-my.github.io/en-US/about/</link>
+      <guid>https://3721-my.github.io/en-US/about/</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
       <description>Learn about Hengxin Professional Services, an accounting, tax and company secretarial team in Bukit Jalil, Kuala Lumpur.</description>
       <content:encoded><![CDATA[<h1 id="about-us">About Us</h1>
@@ -27,8 +27,8 @@
     </item>
     <item>
       <title>Contact Us</title>
-      <link>https://hengxin.example.com/en-US/contact/</link>
-      <guid>https://hengxin.example.com/en-US/contact/</guid>
+      <link>https://3721-my.github.io/en-US/contact/</link>
+      <guid>https://3721-my.github.io/en-US/contact/</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
       <description>Contact Hengxin Professional Services in Bukit Jalil, Kuala Lumpur. Phone +60 3-0000 0000, email hello@example.com.</description>
       <content:encoded><![CDATA[<h1 id="contact-us">Contact Us</h1>
@@ -41,8 +41,8 @@
     </item>
     <item>
       <title>FAQ</title>
-      <link>https://hengxin.example.com/en-US/faq/</link>
-      <guid>https://hengxin.example.com/en-US/faq/</guid>
+      <link>https://3721-my.github.io/en-US/faq/</link>
+      <guid>https://3721-my.github.io/en-US/faq/</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
       <description>Frequently asked questions about Hengxin Professional Services: services, clients, location, how to reach us and company secretarial work.</description>
       <content:encoded><![CDATA[<h1 id="faq">FAQ</h1>
@@ -59,8 +59,8 @@
     </item>
     <item>
       <title>Services</title>
-      <link>https://hengxin.example.com/en-US/services/</link>
-      <guid>https://hengxin.example.com/en-US/services/</guid>
+      <link>https://3721-my.github.io/en-US/services/</link>
+      <guid>https://3721-my.github.io/en-US/services/</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
       <description>Hengxin Professional Services offers accounting and audit, tax advisory and company secretarial services to businesses in Kuala Lumpur.</description>
       <content:encoded><![CDATA[<h1 id="services">Services</h1>

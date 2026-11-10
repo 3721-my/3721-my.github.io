@@ -4,7 +4,7 @@
 - Language: en-US
 - Type: page
 - Review Status: published
-- Canonical: https://hengxin.example.com/en-US/services/
+- Canonical: https://3721-my.github.io/en-US/services/
 
 Hengxin Professional Services offers accounting and audit, tax advisory and company secretarial services to businesses in Kuala Lumpur.
 

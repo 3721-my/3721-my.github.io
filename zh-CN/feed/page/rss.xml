@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>恒信专业服务</title>
-    <link>https://hengxin.example.com/zh-CN/</link>
+    <link>https://3721-my.github.io/zh-CN/</link>
     <description>恒信专业服务是一家位于吉隆坡的专业服务公司，提供会计与审计、税务咨询和公司秘书服务。</description>
     <lastBuildDate>Thu, 01 Jan 2026 00:00:00 GMT</lastBuildDate>
     <generator>bukit</generator>
-    <atom:link href="https://hengxin.example.com/zh-CN/feed/page/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://3721-my.github.io/zh-CN/feed/page/rss.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于我们</title>
-      <link>https://hengxin.example.com/zh-CN/about/</link>
-      <guid>https://hengxin.example.com/zh-CN/about/</guid>
+      <link>https://3721-my.github.io/zh-CN/about/</link>
+      <guid>https://3721-my.github.io/zh-CN/about/</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
       <description>了解恒信专业服务：一家位于吉隆坡 Bukit Jalil 的会计、税务与公司秘书服务团队。</description>
       <content:encoded><![CDATA[<h1 id="关于我们">关于我们</h1>
@@ -27,8 +27,8 @@
     </item>
     <item>
       <title>联系我们</title>
-      <link>https://hengxin.example.com/zh-CN/contact/</link>
-      <guid>https://hengxin.example.com/zh-CN/contact/</guid>
+      <link>https://3721-my.github.io/zh-CN/contact/</link>
+      <guid>https://3721-my.github.io/zh-CN/contact/</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
       <description>联系恒信专业服务：吉隆坡 Bukit Jalil，电话 +60 3-0000 0000，邮箱 hello@example.com。</description>
       <content:encoded><![CDATA[<h1 id="联系我们">联系我们</h1>
@@ -41,8 +41,8 @@
     </item>
     <item>
       <title>常见问题</title>
-      <link>https://hengxin.example.com/zh-CN/faq/</link>
-      <guid>https://hengxin.example.com/zh-CN/faq/</guid>
+      <link>https://3721-my.github.io/zh-CN/faq/</link>
+      <guid>https://3721-my.github.io/zh-CN/faq/</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
       <description>关于恒信专业服务的常见问题：服务范围、服务对象、所在地、咨询方式与服务内容。</description>
       <content:encoded><![CDATA[<h1 id="常见问题">常见问题</h1>
@@ -59,8 +59,8 @@
     </item>
     <item>
       <title>服务</title>
-      <link>https://hengxin.example.com/zh-CN/services/</link>
-      <guid>https://hengxin.example.com/zh-CN/services/</guid>
+      <link>https://3721-my.github.io/zh-CN/services/</link>
+      <guid>https://3721-my.github.io/zh-CN/services/</guid>
       <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
       <description>恒信专业服务提供会计与审计、税务咨询、公司秘书三项服务，服务吉隆坡及周边企业。</description>
       <content:encoded><![CDATA[<h1 id="服务">服务</h1>

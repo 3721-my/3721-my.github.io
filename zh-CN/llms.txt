@@ -3,12 +3,12 @@
 
 ## Page
 
-- [关于我们](https://hengxin.example.com/zh-CN/about/): 了解恒信专业服务：一家位于吉隆坡 Bukit Jalil 的会计、税务与公司秘书服务团队。
-- [联系我们](https://hengxin.example.com/zh-CN/contact/): 联系恒信专业服务：吉隆坡 Bukit Jalil，电话 +60 3-0000 0000，邮箱 hello@example.com。
-- [常见问题](https://hengxin.example.com/zh-CN/faq/): 关于恒信专业服务的常见问题：服务范围、服务对象、所在地、咨询方式与服务内容。
-- [服务](https://hengxin.example.com/zh-CN/services/): 恒信专业服务提供会计与审计、税务咨询、公司秘书三项服务，服务吉隆坡及周边企业。
+- [关于我们](https://3721-my.github.io/zh-CN/about/): 了解恒信专业服务：一家位于吉隆坡 Bukit Jalil 的会计、税务与公司秘书服务团队。
+- [联系我们](https://3721-my.github.io/zh-CN/contact/): 联系恒信专业服务：吉隆坡 Bukit Jalil，电话 +60 3-0000 0000，邮箱 hello@example.com。
+- [常见问题](https://3721-my.github.io/zh-CN/faq/): 关于恒信专业服务的常见问题：服务范围、服务对象、所在地、咨询方式与服务内容。
+- [服务](https://3721-my.github.io/zh-CN/services/): 恒信专业服务提供会计与审计、税务咨询、公司秘书三项服务，服务吉隆坡及周边企业。
 
 ## Optional
 
-- [Agent manifest](https://hengxin.example.com/zh-CN/agent-manifest.json): Machine-readable index of every page with links to its Markdown and JSON versions
+- [Agent manifest](https://3721-my.github.io/zh-CN/agent-manifest.json): Machine-readable index of every page with links to its Markdown and JSON versions
 

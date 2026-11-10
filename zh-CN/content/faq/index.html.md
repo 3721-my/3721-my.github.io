@@ -4,7 +4,7 @@
 - Language: zh-CN
 - Type: page
 - Review Status: published
-- Canonical: https://hengxin.example.com/zh-CN/faq/
+- Canonical: https://3721-my.github.io/zh-CN/faq/
 
 关于恒信专业服务的常见问题：服务范围、服务对象、所在地、咨询方式与服务内容。
 

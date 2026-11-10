@@ -4,7 +4,7 @@
 - Language: zh-CN
 - Type: page
 - Review Status: published
-- Canonical: https://hengxin.example.com/zh-CN/about/
+- Canonical: https://3721-my.github.io/zh-CN/about/
 
 了解恒信专业服务：一家位于吉隆坡 Bukit Jalil 的会计、税务与公司秘书服务团队。
 
